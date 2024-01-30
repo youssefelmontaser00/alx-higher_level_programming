@@ -1,5 +1,5 @@
 
-en D Baraban <375@holbertonschool.com>
+        en D Baraban <375@holbertonschool.com>
 """Defines a Rectangle class."""
 
 
@@ -50,4 +50,4 @@ class Rectangle:
         """Return the perimeter of the Rectangle."""
         if self.__width == 0 or self.__height == 0:
             return (0)
-        return ((self.__width * 2) + (self.__height * 2))_calculation(a, b):
+        return ((self.__width * 2) + (self.__height * 2))eturn ((self.__width * 2) + (self.__height * 2))_calculation(a, b):
